@@ -1,0 +1,20 @@
+{
+  "name": "ts-todo-app",
+  "version": "1.0.0",
+  "description": "Todo App built in Node and TypeScript following Multi-layered Architecture.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassam Ud Din",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
